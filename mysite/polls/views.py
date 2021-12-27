@@ -26,3 +26,6 @@ def index(request):
 
 def test_view(request):
     return 'Hello internet'
+
+def test_view_2(request):
+    return 'Hello 2'
